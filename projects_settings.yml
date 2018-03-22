@@ -1,0 +1,14 @@
+projects:
+  - title: Regolamento Foia
+    short-name: 
+    description: |
+      Regolamento in materia di accesso documentale, accesso civico semplice ed accesso civico generalizzato
+    logo : "asset/images/cmna_logo.jpg
+    website: http://www.cittametropolitana.na.it/
+    tags:
+      - digital
+      - citizenship
+      - amazing project
+    documents:
+      - title: Regolamento in materia di accesso documentale, accesso civico semplice ed accesso civico generalizzato
+        repository: foia-regolamento-docs
