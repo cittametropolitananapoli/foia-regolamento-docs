@@ -2,12 +2,12 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-ettings_project_name = "Regolamento in materia di accesso documentale, accesso civico semplice ed accesso civico generalizzato"
+ettings_project_name = "Regolamento Foia"
 settings_copyright_copyleft = 'URP - CMNA'
-settings_editor_name = 'pablo pers - URP - CMNA'
+settings_editor_name = 'URP - CMNA'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: 0.1'
-settings_file_name = 'regolamento-foia-docs'
+settings_file_name = 'foia-regolamento-docs'
 
 
 import sys
