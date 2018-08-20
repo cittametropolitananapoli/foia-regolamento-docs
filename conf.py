@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-ettings_project_name = "Regolamento Foia"
+settings_project_name = "Regolamento Foia"
 settings_copyright_copyleft = 'URP - CMNA'
 settings_editor_name = 'URP - CMNA'
 settings_doc_version = 'version: latest'
