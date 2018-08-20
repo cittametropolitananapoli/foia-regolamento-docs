@@ -17,14 +17,11 @@ Regolamento in materia di accesso documentale, accesso civico semplice ed access
   :numbered:
   :hidden:
   
-
-.. toctree::
-
-	index/capoI.rst
-	index/capoII.rst
-	index/capoIII.rst
-	index/capoIV.rst
-	index/capoV.rst
+  index/capoI.rst
+  index/capoII.rst
+  index/capoIII.rst
+  index/capoIV.rst
+  index/capoV.rst
 
 .. |logo_cmna| image:: assets/images/logo_cmna.png
    :width: 0.6in
