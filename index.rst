@@ -15,7 +15,6 @@ Regolamento in materia di accesso documentale, accesso civico semplice ed access
 .. toctree::
   :maxdepth: 3
   :numbered:
-  :hidden:
   
   index/capoI.rst
   index/capoII.rst
