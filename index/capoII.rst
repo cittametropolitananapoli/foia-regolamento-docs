@@ -1,15 +1,15 @@
 CAPO II - ACCESSO DOCUMENTALE
-=============================
+-----------------------------
 
 Articolo 7 – Accesso documentale
---------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. A norma del capo V della legge 241/1990, artt. 22 e seguenti, l’accesso ai documenti amministrativi costituisce principio generale dell’attività amministrativa, al fine di favorirne la partecipazione e di assicurarne l’imparzialità e la trasparenza.
 2.  Il  diritto  di  accesso  si  esercita  con  riferimento  ai  documenti  amministrativi  materialmente esistenti al momento della richiesta e detenuti alla stessa data dalla Città Metropolitana di Napoli, fino alla scadenza dell’obbligo di detenere documenti amministrativi ai quali si chiede di accedere.
 3. La Città Metropolitana di Napoli non è tenuta ad elaborare dati in suo possesso al fine di soddisfare le richieste di accesso.
 
 Articolo 8 - Titolari del diritto di accesso documentale
---------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Sono titolari del diritto di accesso documentale, a condizione che dichiarino e dimostrino di avere un interesse diretto, concreto e attuale, corrispondente ad una situazione giuridicamente tutelata e collegata al documento del quale è richiesto l’accesso:
 
@@ -22,12 +22,12 @@ Articolo 8 - Titolari del diritto di accesso documentale
 generalizzato sull’operato dell’amministrazione.
 
 Articolo 9 - Responsabile del procedimento di accesso
------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Fermo restando quanto stabilito all’art. 4 in ordine al ruolo dell’URP, è responsabile del procedimento di accesso documentale, anche per gli atti infraprocedimentali, il responsabile dell’ufficio o altro funzionario designato da quest’ultimo, competente all’adozione dell’atto conclusivo o a detenerlo stabilmente.
 
 Articolo 10 - Accesso informale
--------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il diritto di accesso mediante visione può essere esercitato in via informale, presentando richiesta verbale direttamente all’ufficio competente a formare l’atto conclusivo del procedimento o a detenerlo stabilmente.
 2. La richiesta di accesso mediante estrazione di copia deve essere formulata per iscritto.
@@ -37,7 +37,7 @@ Articolo 10 - Accesso informale
 6. Il diritto di accesso informale può essere esercitato solo qualora, in base al documento richiesto, non risulti l’esistenza di controinteressati. In caso contrario, il richiedente verrà invitato a presentare richiesta formale di accesso.
 
 Articolo 11 - Accesso formale
------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. L’accesso in via formale si esercita mediante richiesta scritta, formulata sulla scorta del modello predisposto dall’Amministrazione, e pubblicato sul sito istituzionale dell’Ente: ”Ufficio URP  - accesso agli atti”. La richiesta formale è obbligatoria quando:
 
@@ -50,7 +50,7 @@ Articolo 11 - Accesso formale
 4. Ove la richiesta sia irregolare o incompleta, l'amministrazione, entro dieci giorni, ne dà comunicazione al richiedente con raccomandata con avviso di ricevimento ovvero con altro mezzo idoneo a comprovarne la ricezione, fornendo indicazioni per consentirne la regolarizzazione, se possibile. In tale caso, il termine del procedimento ricomincia a decorrere dalla presentazione della richiesta corretta.
 
 Articolo 12 – Controinteressati
--------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Sono considerati controinteressati al diritto di accesso tutti i soggetti individuati o facilmente individuabili, in base alla natura del documento richiesto, che dall’esercizio dell’accesso vedrebbero compromesso il loro diritto alla riservatezza.
 2. Il responsabile del diritto di accesso, qualora individui dei controinteressati, è tenuto a dare loro comunicazione della richiesta in istruttoria, mediante invio di copia con raccomandata con avviso di ricevimento o per via telematica o con altro mezzo idoneo a garantire la certezza della ricezione.
@@ -58,7 +58,7 @@ Articolo 12 – Controinteressati
 4. A decorrere dalla data della comunicazione ai controinteressati, nel suddetto periodo di dieci giorni per l'eventuale opposizione degli stessi, il termine di trenta giorni per concludere il procedimento rimane sospeso.
 
 Articolo 13 - Procedura per l’accesso
--------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1.  L’istanza  di  accesso  formale,  presentata  con  le  modalità  indicate  nell’art.  11,  deve  essere indirizzata alla Città Metropolitana di Napoli, all’URP.
 2. Nella richiesta devono essere indicati i seguenti elementi:
@@ -75,7 +75,7 @@ Articolo 13 - Procedura per l’accesso
 6. Il Responsabile competente all’accesso è tenuto ad emanare il provvedimento di autorizzazione ed a consentire l’accesso entro il termine di cui al successivo art. 15.
 
 Articolo 14 - Accoglimento della richiesta di accesso
------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1 In caso di accoglimento della domanda di accesso formale, il responsabile ne dà comunicazione al richiedente nel più breve tempo possibile, compatibilmente con la natura e la tipologia degli atti richiesti.
 2. La comunicazione deve contenere l’indicazione dell’ufficio al quale rivolgersi ed il nominativo del responsabile del procedimento di accesso.
@@ -85,7 +85,7 @@ Articolo 14 - Accoglimento della richiesta di accesso
 6. L’interessato può prendere appunti e trascrivere in tutto o in parte il contenuto dei documenti, nonché ottenerne copia con il pagamento dei costi di cui al successivo art. 15. Effettuata la visione e l'esame, la documentazione deve essere restituita nelle mani del personale addetto.
 
 Articolo 15 – Costi
--------------------
+~~~~~~~~~~~~~~~~~~~
 
 1. L’esame dei documenti è gratuito, salvo il rimborso dei costi di riproduzione.
 2. L'estrazione di copie in formato cartaceo di atti e documenti è sottoposta a rimborso dei seguenti costi di riproduzione:
@@ -102,7 +102,7 @@ Articolo 15 – Costi
 9. Sono esentati dal pagamento dei costi di riproduzione le altre pubbliche amministrazioni.
 
 Articolo 16 - Non accoglimento della richiesta di accesso
----------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il rifiuto, la limitazione o il differimento dell’accesso richiesto in via formale sono motivati a cura del responsabile del procedimento, con riferimento specifico alla normativa vigente, alla individuazione delle categorie di atti sottratti al diritto di accesso ed alle circostanze di fatto per cui la richiesta non può essere accolta.
 2. La comunicazione è disposta mediante provvedimento espresso, da trasmettere entro il termine ordinario stabilito per l’accesso. Trascorsi inutilmente 30 giorni dalla data di protocollazione della richiesta, questa si intende rifiutata.
@@ -111,7 +111,7 @@ Articolo 16 - Non accoglimento della richiesta di accesso
 5. Con la comunicazione dell’esclusione o della limitazione all’accesso, l’interessato deve essere informato sui termini e l’Autorità presso la quale è possibile ricorrere.
 
 Articolo 17 – Esclusioni e limiti al diritto di accesso documentale
--------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il diritto di accesso è escluso, oltre che nei casi espressamente previsti dal citato art. 24 della legge n. 241/90, nei confronti delle seguenti categorie di atti formati o detenuti dall’Ente:
 
@@ -146,7 +146,7 @@ trarsi la consistenza reddituale o patrimoniale dei contribuenti o dei loro conv
 8. Sono infine sottratti all’accesso i documenti indicati come riservati dall’autorità dalla quale provengono.
 
 Articolo 18 - Differimento del diritto di accesso
--------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1. L'accesso ai documenti amministrativi non può essere negato qualora sia sufficiente fare ricorso al differimento.
 2. Sono sottratti all’esercizio del diritto d’accesso, per il periodo di tempo specificatamente indicato per ogni categoria, i seguenti documenti:
 
@@ -163,13 +163,13 @@ Articolo 18 - Differimento del diritto di accesso
 4. Al di fuori dei casi previsti nei commi precedenti, l’accesso può essere differito fino a quando la conoscenza dei documenti richiesti possa impedire o gravemente ostacolare lo svolgimento dell’azione amministrativa.
 
 Articolo 19 - Accesso agli atti istruttori ed alle informazioni sull’iter del procedimento
-------------------------------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Fatta salva la tutela della riservatezza e del buon andamento dell’azione amministrativa, chiunque ha diritto di acquisire informazioni circa lo stato di avanzamento e il tempo programmato di attesa per l’esito di un procedimento in corso che lo riguardi e di accedere ai relativi atti istruttori, in quanto si tratti del destinatario dell’atto finale ovvero del soggetto che, per legge, deve intervenire nel procedimento o dei controinteressati all’emanazione del provvedimento finale, ai quali possa derivare un pregiudizio, o, infine, del soggetto che abbia determinato l’avvio del procedimento stesso.
 2. I pareri legali, se correlati ad un procedimento amministrativo in quanto espressamente richiesti in funzione endo-procedimentale e richiamati nella motivazione del provvedimento finale, sono soggetti all’accesso; non lo sono, invece, quando attengano alle tesi difensive in un procedimento contenzioso o pre contenzioso.
 
 Articolo 20 – Accesso agli atti da parte dei Consiglieri Metropolitani
-----------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. I Consiglieri metropolitani hanno diritto di ottenere dagli uffici dell’Amministrazione tutte le notizie e le informazioni in loro possesso, utili all’espletamento del mandato. Ad essi possono essere opposte soltanto le limitazioni derivanti direttamente da leggi di settore.
 2.   Essi   hanno   diritto   di   accesso   agli   atti   ed   ai   documenti   amministrativi   formati
@@ -180,7 +180,7 @@ degli atti o delle informazioni ricevute, derivi un danno a terzi o all’Ammini
 5. E’ escluso il rilascio di copie di piani urbanistici, progetti, elaborati tecnici ed altri documenti voluminosi, la cui riproduzione richieda costi elevati ed impegno rilevante di tempo per i dipendenti addetti. Il Consigliere può ottenere estratti degli atti predetti, riferiti a parti limitate degli stessi, dei quali motiva la necessità per l’esercizio del mandato elettivo.
 
 Articolo 21 - Diritto di accesso da parte del Collegio dei Revisori dei conti
------------------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il diritto di accesso agli atti e documenti della Città Metropolitana di Napoli riconosciuto ai sensi dell’art.  239  del  D.  Lgs.  n.  267/00  viene  esercitato  dai  Revisori  del  conti  presso  i  singoli responsabili dei procedimenti, anche con semplice richiesta verbale.
 2. In ogni caso non può mai essere negato o ritardato l’accesso del Collegio dei revisori ad atti, documenti ed informazioni quand’esso abbia per oggetto notizie direttamente o indirettamente utili all’esercizio della sua funzione.
