@@ -6,7 +6,10 @@ Art. 22 - Istanza di accesso civico
 
 1. L’accesso civico semplice è il diritto di chiunque di richiedere alle pubbliche amministrazioni documenti informazioni o dati, per i quali sia stata omessa la pubblicazione obbligatoria ai sensi del D.Lgs. n. 33/2013 e s.m.i.
 2. L’istanza di accesso civico non necessita di motivazione, né che il richiedente sia titolare di uno specifico e qualificato interesse all’accesso stesso.
-3. L’istanza, indirizzata al Responsabile dell’Accesso Civico (RAC) e formulata sulla scorta del modello pubblicato sul sito istituzionale dell’Ente, deve consentire l’individuazione del dato, del documento o dell’informazione di cui è richiesto l’accesso. 4. Ove tale istanza venga destinata ad altro ufficio dell’Ente, il responsabile di tale ufficio provvede a trasmetterla al Responsabile dell’Accesso Civico, presso l’URP, nel più breve tempo possibile. 6. Il Responsabile della Prevenzione della Corruzione e Trasparenza (RPCT), è titolare del potere sostitutivo in caso di ritardo o di mancata risposta, come indicato al punto 3 del successivo art. 23.
+3. L’istanza, indirizzata al Responsabile dell’Accesso Civico (RAC) e formulata sulla scorta del modello pubblicato sul sito istituzionale dell’Ente, deve consentire l’individuazione del dato, del documento o dell’informazione di cui è richiesto l’accesso.
+4. Ove tale istanza venga destinata ad altro ufficio dell’Ente, il responsabile di tale ufficio provvede a trasmetterla al Responsabile dell’Accesso Civico, presso l’URP, nel più breve tempo possibile.
+
+6. Il Responsabile della Prevenzione della Corruzione e Trasparenza (RPCT), è titolare del potere sostitutivo in caso di ritardo o di mancata risposta, come indicato al punto 3 del successivo art. 23.
 
 Art. 23 Responsabili del procedimento
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
