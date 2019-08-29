@@ -1,8 +1,8 @@
 CAPO III -  ACCESSO CIVICO SEMPLICE 
-===================================
+-----------------------------------
 
 Art. 22 - Istanza di accesso civico
------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. L’accesso civico semplice è il diritto di chiunque di richiedere alle pubbliche amministrazioni documenti informazioni o dati, per i quali sia stata omessa la pubblicazione obbligatoria ai sensi del D.Lgs. n. 33/2013 e s.m.i.
 2. L’istanza di accesso civico non necessita di motivazione, né che il richiedente sia titolare di uno
@@ -12,7 +12,7 @@ specifico e qualificato interesse all’accesso stesso.
 6. Il Responsabile della Prevenzione della Corruzione e Trasparenza (RPCT), è titolare del potere sostitutivo in caso di ritardo o di mancata risposta, come indicato al punto 3 del successivo art. 23.
 
 Art. 23 Responsabili del procedimento
--------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1.  I  Dirigenti/Responsabili  degli  uffici  della  Città  Metropolitana  di  Napoli  garantiscono  il tempestivo e regolare flusso delle informazioni da pubblicare nella sezione “Amministrazione Trasparente” del sito istituzionale.
 2. Il Responsabile dell’Accesso Civico, (d’ora in poi: RAC), individuato dal Responsabile della Prevenzione della Corruzione e Trasparenza quale soggetto competente, in prima istanza, della trattazione delle richieste di accesso civico, gestisce i relativi procedimenti con l’ausilio dell’Ufficio Relazioni con il Pubblico (d’ora in poi: URP), che affianca le strutture organizzative dell’Ente di volta in volta competenti della gestione organizzativa delle stesse.
@@ -23,7 +23,7 @@ Art. 23 Responsabili del procedimento
 7. L’individuazione della tipologia di accesso, a prescindere da quella effettuata dal richiedente, è a cura del RAC, cui compete l’adozione del provvedimento finale (accoglimento, differimento, diniego) o, comunque, il riscontro espresso.
 
 Art. 24 - Termini di conclusione del procedimento
--------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il provvedimento conclusivo dell’istruttoria deve essere adottato e comunicato nel termine di 30 giorni dalla ricezione dell’istanza di accesso civico. La mancata adozione di un provvedimento entro i termini previsti è sanzionata a livello disciplinare ed incide sulla valutazione della performance individuale, ai sensi dell’art. 46 del D. Lgs. n. 33/2013.
 2.  Il  responsabile della  struttura competente in  relazione all’oggetto  della domanda,  verificata l’effettiva  inosservanza  dell’obbligo,  provvede  tempestivamente  alla  pubblicazione  dovuta  e informa l’URP dell’avvenuto adempimento, per consentire la comunicazione al richiedente del provvedimento conclusivo del procedimento nel termine di cui al comma 1.
