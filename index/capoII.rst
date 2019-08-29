@@ -5,7 +5,7 @@ Articolo 7 – Accesso documentale
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. A norma del capo V della legge 241/1990, artt. 22 e seguenti, l’accesso ai documenti amministrativi costituisce principio generale dell’attività amministrativa, al fine di favorirne la partecipazione e di assicurarne l’imparzialità e la trasparenza.
-2.  Il  diritto  di  accesso  si  esercita  con  riferimento  ai  documenti  amministrativi  materialmente esistenti al momento della richiesta e detenuti alla stessa data dalla Città Metropolitana di Napoli, fino alla scadenza dell’obbligo di detenere documenti amministrativi ai quali si chiede di accedere.
+2. Il  diritto  di  accesso  si  esercita  con  riferimento  ai  documenti  amministrativi  materialmente esistenti al momento della richiesta e detenuti alla stessa data dalla Città Metropolitana di Napoli, fino alla scadenza dell’obbligo di detenere documenti amministrativi ai quali si chiede di accedere.
 3. La Città Metropolitana di Napoli non è tenuta ad elaborare dati in suo possesso al fine di soddisfare le richieste di accesso.
 
 Articolo 8 - Titolari del diritto di accesso documentale
@@ -18,7 +18,7 @@ Articolo 8 - Titolari del diritto di accesso documentale
  -  gli  enti  a  struttura  associativa  nei  limiti  della  presa  visione  e  ad  acquisizione  di  copia  dei documenti che siano funzionali al perseguimento dei fini statutari dell’associazione medesima, mediante istanza formulata dal rappresentante legale;
  -  ogni  altra istituzione o  comitato  portatore di  interessi  pubblici  o  diffusi  per mezzo  del  suo rappresentante o primo firmatario, limitatamente alla presa visione ed acquisizione di copia dei documenti funzionali alla tutela degli interessi di cui sono portatori.
 
- 2. L’esercizio del diritto d’accesso non è consentito qualora risulti preordinato ad un controllo
+2. L’esercizio del diritto d’accesso non è consentito qualora risulti preordinato ad un controllo
 generalizzato sull’operato dell’amministrazione.
 
 Articolo 9 - Responsabile del procedimento di accesso
@@ -77,7 +77,7 @@ Articolo 13 - Procedura per l’accesso
 Articolo 14 - Accoglimento della richiesta di accesso
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1 In caso di accoglimento della domanda di accesso formale, il responsabile ne dà comunicazione al richiedente nel più breve tempo possibile, compatibilmente con la natura e la tipologia degli atti richiesti.
+1. In caso di accoglimento della domanda di accesso formale, il responsabile ne dà comunicazione al richiedente nel più breve tempo possibile, compatibilmente con la natura e la tipologia degli atti richiesti.
 2. La comunicazione deve contenere l’indicazione dell’ufficio al quale rivolgersi ed il nominativo del responsabile del procedimento di accesso.
 3. L’accoglimento della richiesta di accesso ad un documento comporta anche la facoltà di accesso agli altri documenti nello stesso richiamati ed appartenenti al medesimo procedimento, fatte salve le eccezioni di legge o di regolamento.
 4. L’esame dei documenti avviene, avendo cura di non danneggiarli in alcun modo, presso l’ufficio indicato nell’atto di accoglimento della richiesta, nelle ore di ufficio e alla presenza del personale addetto.
@@ -115,28 +115,28 @@ Articolo 17 – Esclusioni e limiti al diritto di accesso documentale
 
 1. Il diritto di accesso è escluso, oltre che nei casi espressamente previsti dal citato art. 24 della legge n. 241/90, nei confronti delle seguenti categorie di atti formati o detenuti dall’Ente:
 
- a)  documenti riguardanti le strutture, i mezzi, le dotazioni, il personale e le azioni strettamente strumentali alla tutela dell’ordine pubblico, alla prevenzione e alla repressione della criminalità con particolare riferimento alle tecniche investigative, alla idoneità delle fonti di informazione e alla sicurezza dei beni delle persone coinvolte, nonché alle attività di polizia giudiziaria e alla condizione delle indagini;
- b)  relazioni di servizio, informazioni ed altri atti o documenti inerenti ad adempimenti istruttori relativi a licenze, concessioni od autorizzazioni comunque denominate o ad altri provvedimenti di competenza di autorità o organi diversi, compresi quelli relativi al contenzioso amministrativo, che contengono notizie relative a situazioni di interesse per l’ordine e la sicurezza pubblica e all’attività di prevenzione e repressione della criminalità, salvo che, per disposizioni di legge o di regolamento, ne siano previste particolari forme di pubblicità o debbano essere uniti a provvedimenti o atti soggetti a pubblicità;
- c)  atti e documenti concernenti la sicurezza delle infrastrutture, la protezione e la custodia di armi o munizioni della polizia metropolitana;
- d)  documentazione attinente ad inchieste ispettive sommarie e formali;
- e)  documenti riguardanti la vita privata o la riservatezza delle persone fisiche, di persone giuridiche, gruppi, imprese, ed associazioni, in particolare con riferimento agli interessi epistolari,  sanitari,  professionali,  finanziari,  industriali  e  commerciali  di  cui  siano  in concreto  titolari,  ancorché  i  relativi  dati  siano  forniti  all’Amministrazione  dagli  stessi soggetti cui si riferiscono;
- f)   fascicoli dei dipendenti della Città Metropolitana di Napoli per la parte relativa a situazioni personali e familiari, ai dati anagrafici, alle comunicazioni personali, ad eventuali selezioni psico-attitudinali, alla salute, alle condizioni psico-fisiche, ai rapporti informativi;
- g)  documentazione attinente ai procedimenti disciplinari, penali e di dispensa dal servizio;
- h)  carichi penali pendenti, certificazione antimafia;
- i)   documentazione inerente la situazione familiare, la salute, le condizioni psico-fisiche dei consiglieri e degli assessori comunali e di altri soggetti anche esterni all’Amministrazione;
- j)   documentazione relativa alla corrispondenza epistolare dei privati, all’attività professionale, commerciale e industriale, nonché alla situazione finanziaria, economica e patrimoniale di persone, gruppi ed imprese comunque utilizzata ai fini dell’attività amministrativa;
- k)  rapporti alle Magistrature ordinarie e alla Procura Generale nonché alle Procura Regionale della Corte dei Conti e richieste o relazioni di detti organi ove siano nominativamente indicati soggetti per i quali si evidenzi la sussistenza di responsabilità amministrative, contabili e penali, limitatamente alle parti la cui conoscenza può pregiudicare il diritto delle persone alla riservatezza;
- l)   atti utili ad accertare responsabilità di fronte alla Procura Generale e a quella Regionale della Corte dei Conti nonché alle competenti autorità giudiziarie, limitatamente alle parti la cui conoscenza può  pregiudicare il  diritto  alla riservatezza di  persone fisiche o  giuridiche, gruppi imprese ed associazioni;
- m) le denunce relative a tributi riscossi dall’Ente, da cui possa direttamente o indirettamente
+a) documenti riguardanti le strutture, i mezzi, le dotazioni, il personale e le azioni strettamente strumentali alla tutela dell’ordine pubblico, alla prevenzione e alla repressione della criminalità con particolare riferimento alle tecniche investigative, alla idoneità delle fonti di informazione e alla sicurezza dei beni delle persone coinvolte, nonché alle attività di polizia giudiziaria e alla condizione delle indagini;
+b) relazioni di servizio, informazioni ed altri atti o documenti inerenti ad adempimenti istruttori relativi a licenze, concessioni od autorizzazioni comunque denominate o ad altri provvedimenti di competenza di autorità o organi diversi, compresi quelli relativi al contenzioso amministrativo, che contengono notizie relative a situazioni di interesse per l’ordine e la sicurezza pubblica e all’attività di prevenzione e repressione della criminalità, salvo che, per disposizioni di legge o di regolamento, ne siano previste particolari forme di pubblicità o debbano essere uniti a provvedimenti o atti soggetti a pubblicità;
+c) atti e documenti concernenti la sicurezza delle infrastrutture, la protezione e la custodia di armi o munizioni della polizia metropolitana;
+d) documentazione attinente ad inchieste ispettive sommarie e formali;
+e) documenti riguardanti la vita privata o la riservatezza delle persone fisiche, di persone giuridiche, gruppi, imprese, ed associazioni, in particolare con riferimento agli interessi epistolari,  sanitari,  professionali,  finanziari,  industriali  e  commerciali  di  cui  siano  in concreto  titolari,  ancorché  i  relativi  dati  siano  forniti  all’Amministrazione  dagli  stessi soggetti cui si riferiscono;
+f) fascicoli dei dipendenti della Città Metropolitana di Napoli per la parte relativa a situazioni personali e familiari, ai dati anagrafici, alle comunicazioni personali, ad eventuali selezioni psico-attitudinali, alla salute, alle condizioni psico-fisiche, ai rapporti informativi;
+g) documentazione attinente ai procedimenti disciplinari, penali e di dispensa dal servizio;
+h) carichi penali pendenti, certificazione antimafia;
+i) documentazione inerente la situazione familiare, la salute, le condizioni psico-fisiche dei consiglieri e degli assessori comunali e di altri soggetti anche esterni all’Amministrazione;
+j) documentazione relativa alla corrispondenza epistolare dei privati, all’attività professionale, commerciale e industriale, nonché alla situazione finanziaria, economica e patrimoniale di persone, gruppi ed imprese comunque utilizzata ai fini dell’attività amministrativa;
+k) rapporti alle Magistrature ordinarie e alla Procura Generale nonché alle Procura Regionale della Corte dei Conti e richieste o relazioni di detti organi ove siano nominativamente indicati soggetti per i quali si evidenzi la sussistenza di responsabilità amministrative, contabili e penali, limitatamente alle parti la cui conoscenza può pregiudicare il diritto delle persone alla riservatezza;
+l) atti utili ad accertare responsabilità di fronte alla Procura Generale e a quella Regionale della Corte dei Conti nonché alle competenti autorità giudiziarie, limitatamente alle parti la cui conoscenza può  pregiudicare il  diritto  alla riservatezza di  persone fisiche o  giuridiche, gruppi imprese ed associazioni;
+m) le denunce relative a tributi riscossi dall’Ente, da cui possa direttamente o indirettamente
 trarsi la consistenza reddituale o patrimoniale dei contribuenti o dei loro conviventi; n)  documenti che contengono apprezzamenti o giudizi di valore su persone individuate; o)  atti e registri riservati per legge;
- p)  relativamente agli appalti per forniture di beni, servizi e lavori, sono esclusi il diritto di accesso e ogni forma di divulgazione in relazione:
+p) relativamente agli appalti per forniture di beni, servizi e lavori, sono esclusi il diritto di accesso e ogni forma di divulgazione in relazione:
   
-  I.    alle informazioni fornite dagli offerenti nell’ambito delle offerte ovvero a giustificazione delle medesime, che costituiscano, secondo motivata e comprovata dichiarazione dell’offerente, segreti tecnici o commerciali;
-  II.   ai  pareri  legali  acquisiti  dall’Amministrazione,  per  la  soluzione  di  liti, potenziali o in atto, relative ai contratti pubblici;
-  III.   alle relazioni riservate del direttore dei lavori e dell’organo di collaudo sulle domande e sulle riserve del soggetto esecutore del contratto;
-  IV.   alle soluzioni tecniche e ai programmi per elaboratore utilizzati dalla stazione appaltante o dal gestore del sistema informatico per le aste elettroniche, ove coperti da diritti di privativa intellettuale.
+I. alle informazioni fornite dagli offerenti nell’ambito delle offerte ovvero a giustificazione delle medesime, che costituiscano, secondo motivata e comprovata dichiarazione dell’offerente, segreti tecnici o commerciali;
+II. ai  pareri  legali  acquisiti  dall’Amministrazione,  per  la  soluzione  di  liti, potenziali o in atto, relative ai contratti pubblici;
+III. alle relazioni riservate del direttore dei lavori e dell’organo di collaudo sulle domande e sulle riserve del soggetto esecutore del contratto;
+IV. alle soluzioni tecniche e ai programmi per elaboratore utilizzati dalla stazione appaltante o dal gestore del sistema informatico per le aste elettroniche, ove coperti da diritti di privativa intellettuale.
 
- q)  Sono altresì, sottratti all’accesso, in quanto mirano a tutelare non solo l’opera intellettuale del legale, ma soprattutto il diritto di difesa dell’Ente, gli atti redatti dai legali e dai professionisti del libero foro in relazione a rapporti di consulenza con l’Ente medesimo.
+q. Sono altresì, sottratti all’accesso, in quanto mirano a tutelare non solo l’opera intellettuale del legale, ma soprattutto il diritto di difesa dell’Ente, gli atti redatti dai legali e dai professionisti del libero foro in relazione a rapporti di consulenza con l’Ente medesimo.
 
 3. E’ esclusa la consultazione diretta dei protocolli generali e speciali, dei repertori, rubriche e cataloghi di atti e documenti, salvo il diritto di accesso alle informazioni, alla visione ed alla estrazione di copia delle registrazioni effettuate negli stessi per singoli atti, ferme restando le preclusioni stabilite nel primo comma del presente articolo. In ogni caso, l’accesso deve svolgersi senza spesa per la Città metropolitana di Napoli ed in modo da non ostacolare o ritardare l’attività degli uffici o dei servizi.
 4. Non sono ammesse richieste generiche relative ad intere categorie di documenti che comportino lo svolgimento di attività di indagine ed elaborazione da parte degli uffici.
@@ -172,7 +172,7 @@ Articolo 20 – Accesso agli atti da parte dei Consiglieri Metropolitani
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. I Consiglieri metropolitani hanno diritto di ottenere dagli uffici dell’Amministrazione tutte le notizie e le informazioni in loro possesso, utili all’espletamento del mandato. Ad essi possono essere opposte soltanto le limitazioni derivanti direttamente da leggi di settore.
-2.   Essi   hanno   diritto   di   accesso   agli   atti   ed   ai   documenti   amministrativi   formati
+2. Essi   hanno   diritto   di   accesso   agli   atti   ed   ai   documenti   amministrativi   formati
 dall’Amministrazione o dalla stessa stabilmente detenuti.
 3. I Consiglieri possono ottenere copia degli atti e dei documenti necessari per l’esercizio del mandato elettivo, senza addebito di spese.  Essi sono tenuti al segreto  nei casi  specificamente determinati dalla legge. In relazione ad atti compresi in registri di verbali delle adunanze di organi dell’ente e di registrazioni, è necessaria la presentazione di richiesta per lo specifico atto o registrazione di cui il Consigliere ha necessità per l’esercizio delle sue funzioni.
 4. I Consiglieri sono civilmente e penalmente responsabili qualora, dalla divulgazione del contenuto
