@@ -1,23 +1,23 @@
 CAPO I PRINCIPI GENERALI
-========================
+------------------------
 
 
 
 Articolo 1 – Oggetto e ambito di applicazione
----------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il presente regolamento disciplina: l’accesso documentale agli atti amministrativi (artt. 22 e seguenti della legge n. 241/1990), l’accesso civico semplice (art. 5, comma 1, del D. Lgs. 33/2013 di seguito denominato Decreto Trasparenza) e l’accesso civico generalizzato (art. 5, comma 2, Decreto Trasparenza).
 2. La Città Metropolitana di Napoli garantisce a tutti, nelle forme previste dalle vigenti leggi in materia e dal presente regolamento, l’esercizio del diritto all’informazione e all’accesso.
 3 Resta ferma   la disciplina dettata da altre norme legislative o regolamentari per le fattispecie particolari di diritto di accesso (accesso in materia ambientale, accesso per fini scientifici, tutela dati personali).
 
 Articolo 2 – Principi generali del diritto all’informazione e all’accesso
--------------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. La trasparenza è l’accessibilità totale ai dati e ai documenti detenuti dall’ente, allo scopo di tutelare   i   diritti   dei   cittadini,   promuovere   la   partecipazione   degli   interessati   all'attività amministrativa e favorire forme diffuse di controllo sul perseguimento delle funzioni istituzionali e sull'utilizzo delle risorse pubbliche.
 2. L’accesso ai documenti amministrativi, attese le sue rilevanti finalità di pubblico interesse ed attenendo ai livelli essenziali delle prestazioni di cui all’art. 117 secondo comma, lettera m) della Costituzione, costituisce principio generale, volto a favorire la partecipazione e ad assicurare l’imparzialità, la trasparenza e la pubblicità dell’attività amministrativa della Città metropolitana di Napoli.
 
 Art. 3 - Diritti di accesso: definizioni
-----------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il presente regolamento disciplina i criteri e le modalità organizzative per l’effettivo esercizio dei seguenti diritti:
 
@@ -30,7 +30,7 @@ Art. 3 - Diritti di accesso: definizioni
 4. L’accesso civico generalizzato è il diritto di chiunque di accedere ai dati e ai documenti detenuti dalle pubbliche amministrazioni, ulteriori rispetto a quelli oggetto di pubblicazione ai sensi del Decreto Trasparenza, nel rispetto dei limiti relativi alla tutela di interessi giuridicamente rilevanti secondo quanto previsto dall'articolo 5-bis del D.Lgs.n.33/2013.
 
 Articolo 4 – Ufficio Relazioni con il Pubblico
-----------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. L’Ufficio Relazioni con il Pubblico (di seguito URP) fornisce informazioni e supporto all’utenza e agli uffici dell’Amministrazione circa le modalità per l’esercizio del diritto di accesso nei limiti previsti dalla legge.
 2. L’URP riceve le istanze di accesso di ogni tipologia, gestisce le comunicazioni relative al procedimento di accesso e supporta il Responsabile per l’Accesso Civico, (di seguito RAC).
@@ -38,7 +38,7 @@ Articolo 4 – Ufficio Relazioni con il Pubblico
 4. L’URP provvede, altresì, alla tenuta ed aggiornamento del Registro delle domande di accesso, di cui al successivo art. 5 e alla distribuzione della relativa modulistica.
 
 Art. 5 - Registro delle domande di accesso
-------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1.Il Registro delle domande di accesso, tenuto ed aggiornato a cura dell’URP, è istituito per la registrazione  delle  istanze  di  accesso  documentale,  civico  semplice  e  civico  generalizzato, pervenute nell’anno solare alla Città metropolitana di Napoli.
 2. Nel Registro delle domande di accesso viene annotato:
@@ -58,7 +58,7 @@ Registro in relazione a tutti i suoi elementi.
 6.  Il  responsabile  della  struttura  competente  alla  trattazione  della  domanda  di  accesso,  per consentire tutte le comunicazioni e gli adempimenti necessari, trasmette senza ritardo all’URP tutti i dati, le informazioni ed i provvedimenti elencati al punto 2 del presente articolo.
 
 Art. 6 - Modalità di presentazione delle domande di accesso
------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il soggetto interessato, preferibilmente utilizzando la modulistica disponibile presso l’URP e sul
 sito istituzionale dell’Ente, può trasmettere all’URP la domanda di accesso:
