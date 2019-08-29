@@ -128,7 +128,9 @@ j) documentazione relativa alla corrispondenza epistolare dei privati, all’att
 k) rapporti alle Magistrature ordinarie e alla Procura Generale nonché alle Procura Regionale della Corte dei Conti e richieste o relazioni di detti organi ove siano nominativamente indicati soggetti per i quali si evidenzi la sussistenza di responsabilità amministrative, contabili e penali, limitatamente alle parti la cui conoscenza può pregiudicare il diritto delle persone alla riservatezza;
 l) atti utili ad accertare responsabilità di fronte alla Procura Generale e a quella Regionale della Corte dei Conti nonché alle competenti autorità giudiziarie, limitatamente alle parti la cui conoscenza può  pregiudicare il  diritto  alla riservatezza di  persone fisiche o  giuridiche, gruppi imprese ed associazioni;
 m) le denunce relative a tributi riscossi dall’Ente, da cui possa direttamente o indirettamente
-trarsi la consistenza reddituale o patrimoniale dei contribuenti o dei loro conviventi; n)  documenti che contengono apprezzamenti o giudizi di valore su persone individuate; o)  atti e registri riservati per legge;
+trarsi la consistenza reddituale o patrimoniale dei contribuenti o dei loro conviventi; 
+n)  documenti che contengono apprezzamenti o giudizi di valore su persone individuate; 
+o)  atti e registri riservati per legge;
 p) relativamente agli appalti per forniture di beni, servizi e lavori, sono esclusi il diritto di accesso e ogni forma di divulgazione in relazione:
   
 I. alle informazioni fornite dagli offerenti nell’ambito delle offerte ovvero a giustificazione delle medesime, che costituiscano, secondo motivata e comprovata dichiarazione dell’offerente, segreti tecnici o commerciali;
