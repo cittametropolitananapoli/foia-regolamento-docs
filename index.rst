@@ -1,6 +1,5 @@
-######################################################################################################
-Regolamento in materia di accesso documentale, accesso civico semplice ed accesso civico generalizzato
-######################################################################################################
+Regolamento Foia
+================
 
 |logo_cmna| *Città Metropolitana di Napoli*
 
@@ -10,9 +9,8 @@ Regolamento in materia di accesso documentale, accesso civico semplice ed access
 
 :Proprietà: Città Metropolitana di Napoli
 :Publisher: Ufficio Relazioni con il Pubblico
-:Licenza: CC-0 |cc-zero|
+:Licenza: |cc-zero|
  
-
 .. toctree::
   :maxdepth: 3
   :numbered:
