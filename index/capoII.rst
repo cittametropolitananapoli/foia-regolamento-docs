@@ -91,9 +91,9 @@ Art. 15 – Costi
 2. L'estrazione di copie in formato cartaceo di atti e documenti è sottoposta a rimborso dei seguenti costi di riproduzione:
 
    a) copia formato A4 ( per singola facciata): euro 0.15 
-   b)  copia formato A4 ( fronte/retro): euro 0.25
+   b) copia formato A4 ( fronte/retro): euro 0.25
    c) copia formato A3 ( per singola facciata): euro 0.25 
-   d)  copia formato A3 ( fronte/retro): euro 0.35
+   d) copia formato A3 ( fronte/retro): euro 0.35
 
 3. Per atti di particolare natura e/o formato delle copie, ove non sia possibile, per mancanza di idonea  strumentazione,  procedere  alla  loro  riproduzione  all’interno  dell’Ente,  e  pertanto  sia necessario ricorrere al servizio di una ditta esterna, il rimborso delle spese a carico del richiedente è quantificato nel costo fatturato dalla ditta.
 4. Per gli importi inferiori a euro 1,00 non è dovuto alcun rimborso. Al di sopra di tale importo, deve essere effettuata la riscossione dell'intera cifra. Non è consentito frazionare la richiesta di copie relative agli stessi documenti da parte del medesimo soggetto.
@@ -133,10 +133,12 @@ Art. 17 – Esclusioni e limiti al diritto di accesso documentale
    n) documenti che contengono apprezzamenti o giudizi di valore su persone individuate; 
    o) atti e registri riservati per legge;
    p) relativamente agli appalti per forniture di beni, servizi e lavori, sono esclusi il diritto di accesso e ogni forma di divulgazione in relazione:
-  
+   
       I. alle informazioni fornite dagli offerenti nell’ambito delle offerte ovvero a giustificazione delle medesime, che costituiscano, secondo motivata e comprovata dichiarazione dell’offerente, segreti tecnici o commerciali;
       II. ai  pareri  legali  acquisiti  dall’Amministrazione,  per  la  soluzione  di  liti, potenziali o in atto, relative ai contratti pubblici;
+      
       III. alle relazioni riservate del direttore dei lavori e dell’organo di collaudo sulle domande e sulle riserve del soggetto esecutore del contratto;
+      
       IV. alle soluzioni tecniche e ai programmi per elaboratore utilizzati dalla stazione appaltante o dal gestore del sistema informatico per le aste elettroniche, ove coperti da diritti di privativa intellettuale.
 
    q) Sono altresì, sottratti all’accesso, in quanto mirano a tutelare non solo l’opera intellettuale del legale, ma soprattutto il diritto di difesa dell’Ente, gli atti redatti dai legali e dai professionisti del libero foro in relazione a rapporti di consulenza con l’Ente medesimo.
