@@ -19,21 +19,6 @@ Art. 2 – Principi generali del diritto all’informazione e all’accesso
 Art. 3 - Diritti di accesso: definizioni
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. testo prova
-
-   a. sotto testo prova
-   b. sotto testo prova
-
-2. testo prova
-
-1. testo prova
-
-   a) sotto testo prova
-   b) sotto testo prova
-
-2. testo prova
-
-
 1. Il presente regolamento disciplina i criteri e le modalità organizzative per l’effettivo esercizio dei seguenti diritti:
 
    a) “accesso documentale”: l’accesso disciplinato dal capo V della legge n. 241/1990;
