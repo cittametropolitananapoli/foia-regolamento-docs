@@ -3,14 +3,14 @@ CAPO I PRINCIPI GENERALI
 
 
 
-Articolo 1 – Oggetto e ambito di applicazione
+Art. 1 – Oggetto e ambito di applicazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il presente regolamento disciplina: l’accesso documentale agli atti amministrativi (artt. 22 e seguenti della legge n. 241/1990), l’accesso civico semplice (art. 5, comma 1, del D. Lgs. 33/2013 di seguito denominato Decreto Trasparenza) e l’accesso civico generalizzato (art. 5, comma 2, Decreto Trasparenza).
 2. La Città Metropolitana di Napoli garantisce a tutti, nelle forme previste dalle vigenti leggi in materia e dal presente regolamento, l’esercizio del diritto all’informazione e all’accesso.
 3. Resta ferma   la disciplina dettata da altre norme legislative o regolamentari per le fattispecie particolari di diritto di accesso (accesso in materia ambientale, accesso per fini scientifici, tutela dati personali).
 
-Articolo 2 – Principi generali del diritto all’informazione e all’accesso
+Art. 2 – Principi generali del diritto all’informazione e all’accesso
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. La trasparenza è l’accessibilità totale ai dati e ai documenti detenuti dall’ente, allo scopo di tutelare   i   diritti   dei   cittadini,   promuovere   la   partecipazione   degli   interessati   all'attività amministrativa e favorire forme diffuse di controllo sul perseguimento delle funzioni istituzionali e sull'utilizzo delle risorse pubbliche.
@@ -29,7 +29,7 @@ Art. 3 - Diritti di accesso: definizioni
 3. L’accesso civico semplice è il diritto di chiunque di richiedere alle pubbliche amministrazioni documenti informazioni o dati, che l’ente abbia omesso di pubblicare pur avendone l’obbligo ai sensi del decreto trasparenza.
 4. L’accesso civico generalizzato è il diritto di chiunque di accedere ai dati e ai documenti detenuti dalle pubbliche amministrazioni, ulteriori rispetto a quelli oggetto di pubblicazione ai sensi del Decreto Trasparenza, nel rispetto dei limiti relativi alla tutela di interessi giuridicamente rilevanti secondo quanto previsto dall'articolo 5-bis del D.Lgs.n.33/2013.
 
-Articolo 4 – Ufficio Relazioni con il Pubblico
+Art. 4 – Ufficio Relazioni con il Pubblico
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. L’Ufficio Relazioni con il Pubblico (di seguito URP) fornisce informazioni e supporto all’utenza e agli uffici dell’Amministrazione circa le modalità per l’esercizio del diritto di accesso nei limiti previsti dalla legge.
