@@ -21,9 +21,9 @@ Art. 3 - Diritti di accesso: definizioni
 
 1. Il presente regolamento disciplina i criteri e le modalità organizzative per l’effettivo esercizio dei seguenti diritti:
 
-   a “accesso documentale”: l’accesso disciplinato dal capo V della legge n. 241/1990;
-   b “accesso civico semplice”: l’accesso ai documenti oggetto degli obblighi di pubblicazione, previsto dall’art. 5, comma 1, del D.Lgs. n. 33/2013 (Decreto Trasparenza);
-   c “accesso civico generalizzato”: la nuova forma di accesso civico previsto dall’art. 5, comma 2, del citato decreto trasparenza.
+   a) “accesso documentale”: l’accesso disciplinato dal capo V della legge n. 241/1990;
+   b) “accesso civico semplice”: l’accesso ai documenti oggetto degli obblighi di pubblicazione, previsto dall’art. 5, comma 1, del D.Lgs. n. 33/2013 (Decreto Trasparenza);
+   c) “accesso civico generalizzato”: la nuova forma di accesso civico previsto dall’art. 5, comma 2, del citato decreto trasparenza.
  
 2. L’accesso documentale o “procedimentale” è il diritto degli interessati di prendere visione e di estrarre copia di documenti amministrativi. Tale diritto è riconosciuto a tutti i soggetti privati, compresi quelli portatori di interessi pubblici o diffusi, che abbiano un interesse diretto, concreto e attuale, corrispondente ad una situazione giuridicamente tutelata e collegata al documento amministrativo al quale è chiesto l'accesso.
 3. L’accesso civico semplice è il diritto di chiunque di richiedere alle pubbliche amministrazioni documenti informazioni o dati, che l’ente abbia omesso di pubblicare pur avendone l’obbligo ai sensi del decreto trasparenza.
@@ -43,13 +43,13 @@ Art. 5 - Registro delle domande di accesso
 1. Il Registro delle domande di accesso, tenuto ed aggiornato a cura dell’URP, è istituito per la registrazione  delle  istanze  di  accesso  documentale,  civico  semplice  e  civico  generalizzato, pervenute nell’anno solare alla Città metropolitana di Napoli.
 2. Nel Registro delle domande di accesso viene annotato:
 
-   a. oggetto della richiesta;
-   b. tipologia dell’accesso richiesto;
-   c. dati del richiedente;
-   d. data e numero di protocollo della richiesta;
-   e. ufficio competente in relazione all’oggetto dell’istanza;
-   f. esito della richiesta (accoglimento, differimento o diniego, parziali o totali);
-   g. data e protocollo della comunicazione recante la decisione assunta;
+   a) oggetto della richiesta;
+   b) tipologia dell’accesso richiesto;
+   c) dati del richiedente;
+   d) data e numero di protocollo della richiesta;
+   e) ufficio competente in relazione all’oggetto dell’istanza;
+   f) esito della richiesta (accoglimento, differimento o diniego, parziali o totali);
+   g) data e protocollo della comunicazione recante la decisione assunta;
  
 3. Il  RPCT,  l’Organismo  Indipendente  di  Valutazione  (OIV)  e  i  dirigenti  interessati  possono chiedere in ogni momento all’URP e/o agli uffici informazioni sullo stato del procedimento e sugli esiti delle istanze di accesso.
 4. Il Registro delle domande di accesso è pubblicato, omettendo i dati personali e quelli sensibili eventualmente presenti, sul sito istituzionale della Città metropolitana di Napoli.
@@ -67,10 +67,10 @@ Art. 6 - Modalità di presentazione delle domande di accesso
 
 2. Ai sensi dell’art. 65 del CAD: **“Le istanze presentate per via telematica sono valide:**
  
- **a) se sottoscritte mediante la firma digitale o la firma elettronica qualificata, il cui certificato è rilasciato da un certificatore qualificato;**
- **b) ovvero , quando l’istante o il dichiarante è identificato attraverso il sistema pubblico di identità digitale (SPID), nonché attraverso uno degli altri strumenti di cui all’art. 64, comma 2-novies, nei limiti ivi previsti** (la carta di identità elettronica o la carta nazionale dei servizi);
- **c) ovvero sono sottoscritte e presentate unitamente alla copia del documento d’identità;**
- **c-bis) ovvero se trasmesse dall’istante o dal dichiarante mediante la propria casella di posta elettronica certificata purché le relative credenziali di accesso siano state rilasciate previa identificazione del titolare, anche per via telematica secondo modalità definite con regole tecniche adottate ai sensi dell’art. 71 (CAD), e ciò sia attestato dal gestore del sistema nel messaggio o in un suo allegato…”.**
+   **a) se sottoscritte mediante la firma digitale o la firma elettronica qualificata, il cui certificato è rilasciato da un certificatore qualificato;**
+   **b) ovvero , quando l’istante o il dichiarante è identificato attraverso il sistema pubblico di identità digitale (SPID), nonché attraverso uno degli altri strumenti di cui all’art. 64, comma 2-novies, nei limiti ivi previsti** (la carta di identità elettronica o la carta nazionale dei servizi);
+   **c) ovvero sono sottoscritte e presentate unitamente alla copia del documento d’identità;**
+   **c-bis) ovvero se trasmesse dall’istante o dal dichiarante mediante la propria casella di posta elettronica certificata purché le relative credenziali di accesso siano state rilasciate previa identificazione del titolare, anche per via telematica secondo modalità definite con regole tecniche adottate ai sensi dell’art. 71 (CAD), e ciò sia attestato dal gestore del sistema nel messaggio o in un suo allegato…”.**
  
 3. L’istanza formulata su supporto cartaceo deve essere sottoscritta e trasmessa o consegnata, unitamente a copia fotostatica non autenticata di un documento di identità del sottoscrittore (cfr. art. 38, commi 1 e 3, d.P.R. 28 dicembre 2000, n. 445).
 4. Nel caso di istanza erroneamente indirizzata alla Città Metropolitana di Napoli, in quanto amministrazione che non detiene i dati, documenti e informazioni richiesti, l’URP, direttamente o su impulso della struttura ricevente, provvede a dare tempestiva comunicazione dell’errore al richiedente, al quale, ove possibile, deve essere indicata l’amministrazione competente in relazione all’oggetto della domanda, e specificato che il termine di conclusione del procedimento decorre dalla data di ricevimento della richiesta da parte dell’ufficio effettivamente competente.
