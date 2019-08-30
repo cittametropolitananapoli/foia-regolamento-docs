@@ -90,8 +90,10 @@ Art. 15 – Costi
 1. L’esame dei documenti è gratuito, salvo il rimborso dei costi di riproduzione.
 2. L'estrazione di copie in formato cartaceo di atti e documenti è sottoposta a rimborso dei seguenti costi di riproduzione:
 
-   a) copia formato A4 ( per singola facciata): euro 0.15 b)  copia formato A4 ( fronte/retro): euro 0.25
-   c) copia formato A3 ( per singola facciata): euro 0.25 d)  copia formato A3 ( fronte/retro): euro 0.35
+   a) copia formato A4 ( per singola facciata): euro 0.15 
+   b)  copia formato A4 ( fronte/retro): euro 0.25
+   c) copia formato A3 ( per singola facciata): euro 0.25 
+   d)  copia formato A3 ( fronte/retro): euro 0.35
 
 3. Per atti di particolare natura e/o formato delle copie, ove non sia possibile, per mancanza di idonea  strumentazione,  procedere  alla  loro  riproduzione  all’interno  dell’Ente,  e  pertanto  sia necessario ricorrere al servizio di una ditta esterna, il rimborso delle spese a carico del richiedente è quantificato nel costo fatturato dalla ditta.
 4. Per gli importi inferiori a euro 1,00 non è dovuto alcun rimborso. Al di sopra di tale importo, deve essere effettuata la riscossione dell'intera cifra. Non è consentito frazionare la richiesta di copie relative agli stessi documenti da parte del medesimo soggetto.
@@ -127,8 +129,7 @@ Articolo 17 – Esclusioni e limiti al diritto di accesso documentale
    j) documentazione relativa alla corrispondenza epistolare dei privati, all’attività professionale, commerciale e industriale, nonché alla situazione finanziaria, economica e patrimoniale di persone, gruppi ed imprese comunque utilizzata ai fini dell’attività amministrativa;
    k) rapporti alle Magistrature ordinarie e alla Procura Generale nonché alle Procura Regionale della Corte dei Conti e richieste o relazioni di detti organi ove siano nominativamente indicati soggetti per i quali si evidenzi la sussistenza di responsabilità amministrative, contabili e penali, limitatamente alle parti la cui conoscenza può pregiudicare il diritto delle persone alla riservatezza;
    l) atti utili ad accertare responsabilità di fronte alla Procura Generale e a quella Regionale della Corte dei Conti nonché alle competenti autorità giudiziarie, limitatamente alle parti la cui conoscenza può  pregiudicare il  diritto  alla riservatezza di  persone fisiche o  giuridiche, gruppi imprese ed associazioni;
-   m) le denunce relative a tributi riscossi dall’Ente, da cui possa direttamente o indirettamente
-trarsi la consistenza reddituale o patrimoniale dei contribuenti o dei loro conviventi; 
+   m) le denunce relative a tributi riscossi dall’Ente, da cui possa direttamente o indirettamente trarsi la consistenza reddituale o patrimoniale dei contribuenti o dei loro conviventi; 
    n)  documenti che contengono apprezzamenti o giudizi di valore su persone individuate; 
    o)  atti e registri riservati per legge;
    p) relativamente agli appalti per forniture di beni, servizi e lavori, sono esclusi il diritto di accesso e ogni forma di divulgazione in relazione:
