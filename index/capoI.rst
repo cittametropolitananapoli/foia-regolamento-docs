@@ -43,13 +43,13 @@ Art. 5 - Registro delle domande di accesso
 1. Il Registro delle domande di accesso, tenuto ed aggiornato a cura dell’URP, è istituito per la registrazione  delle  istanze  di  accesso  documentale,  civico  semplice  e  civico  generalizzato, pervenute nell’anno solare alla Città metropolitana di Napoli.
 2. Nel Registro delle domande di accesso viene annotato:
 
- a)  oggetto della richiesta;
- b)  tipologia dell’accesso richiesto;
- c)  dati del richiedente;
- d)  data e numero di protocollo della richiesta;
- e)  ufficio competente in relazione all’oggetto dell’istanza;
- f)  esito della richiesta (accoglimento, differimento o diniego, parziali o totali);
- g)  data e protocollo della comunicazione recante la decisione assunta;
+   a. oggetto della richiesta;
+   b. tipologia dell’accesso richiesto;
+   c. dati del richiedente;
+   d. data e numero di protocollo della richiesta;
+   e. ufficio competente in relazione all’oggetto dell’istanza;
+   f. esito della richiesta (accoglimento, differimento o diniego, parziali o totali);
+   g. data e protocollo della comunicazione recante la decisione assunta;
  
 3. Il  RPCT,  l’Organismo  Indipendente  di  Valutazione  (OIV)  e  i  dirigenti  interessati  possono chiedere in ogni momento all’URP e/o agli uffici informazioni sullo stato del procedimento e sugli esiti delle istanze di accesso.
 4. Il Registro delle domande di accesso è pubblicato, omettendo i dati personali e quelli sensibili eventualmente presenti, sul sito istituzionale della Città metropolitana di Napoli.
