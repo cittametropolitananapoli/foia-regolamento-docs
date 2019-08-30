@@ -22,7 +22,6 @@ Art. 3 - Diritti di accesso: definizioni
 1. testo prova
 
    a. sotto testo prova
-
    b. sotto testo prova
 
 2. testo prova
@@ -30,7 +29,6 @@ Art. 3 - Diritti di accesso: definizioni
 1. testo prova
 
    a) sotto testo prova
-
    b) sotto testo prova
 
 2. testo prova
