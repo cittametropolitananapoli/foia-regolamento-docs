@@ -71,9 +71,9 @@ Art. 6 - Modalità di presentazione delle domande di accesso
 
 2. Ai sensi dell’art. 65 del CAD: *“Le istanze presentate per via telematica sono valide":*
  
-   a) *se sottoscritte mediante la firma digitale o la firma elettronica qualificata, il cui certificato è rilasciato da un certificatore qualificato;**
+   a) *se sottoscritte mediante la firma digitale o la firma elettronica qualificata, il cui certificato è rilasciato da un certificatore qualificato;*
    b) *ovvero , quando l’istante o il dichiarante è identificato attraverso il sistema pubblico di identità digitale (SPID), nonché attraverso uno degli altri strumenti di cui all’art. 64, comma 2-novies, nei limiti ivi previsti** (la carta di identità elettronica o la carta nazionale dei servizi);
-   c) *ovvero sono sottoscritte e presentate unitamente alla copia del documento d’identità;**
+   c) *ovvero sono sottoscritte e presentate unitamente alla copia del documento d’identità;*
    c-bis) *ovvero se trasmesse dall’istante o dal dichiarante mediante la propria casella di posta elettronica certificata purché le relative credenziali di accesso siano state rilasciate previa identificazione del titolare, anche per via telematica secondo modalità definite con regole tecniche adottate ai sensi dell’art. 71* (CAD), *e ciò sia attestato dal gestore del sistema nel messaggio o in un suo allegato…”.*
  
 3. L’istanza formulata su supporto cartaceo deve essere sottoscritta e trasmessa o consegnata, unitamente a copia fotostatica non autenticata di un documento di identità del sottoscrittore (cfr. art. 38, commi 1 e 3, d.P.R. 28 dicembre 2000, n. 445).
