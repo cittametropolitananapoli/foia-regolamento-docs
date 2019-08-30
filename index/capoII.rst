@@ -134,12 +134,10 @@ Art. 17 – Esclusioni e limiti al diritto di accesso documentale
    o) atti e registri riservati per legge;
    p) relativamente agli appalti per forniture di beni, servizi e lavori, sono esclusi il diritto di accesso e ogni forma di divulgazione in relazione:
    
-      I. alle informazioni fornite dagli offerenti nell’ambito delle offerte ovvero a giustificazione delle medesime, che costituiscano, secondo motivata e comprovata dichiarazione dell’offerente, segreti tecnici o commerciali;
-      II. ai  pareri  legali  acquisiti  dall’Amministrazione,  per  la  soluzione  di  liti, potenziali o in atto, relative ai contratti pubblici;
-      
-      III. alle relazioni riservate del direttore dei lavori e dell’organo di collaudo sulle domande e sulle riserve del soggetto esecutore del contratto;
-      
-      IV. alle soluzioni tecniche e ai programmi per elaboratore utilizzati dalla stazione appaltante o dal gestore del sistema informatico per le aste elettroniche, ove coperti da diritti di privativa intellettuale.
+      a. alle informazioni fornite dagli offerenti nell’ambito delle offerte ovvero a giustificazione delle medesime, che costituiscano, secondo motivata e comprovata dichiarazione dell’offerente, segreti tecnici o commerciali;
+      b. ai  pareri  legali  acquisiti  dall’Amministrazione,  per  la  soluzione  di  liti, potenziali o in atto, relative ai contratti pubblici;
+      c. alle relazioni riservate del direttore dei lavori e dell’organo di collaudo sulle domande e sulle riserve del soggetto esecutore del contratto;
+      d. alle soluzioni tecniche e ai programmi per elaboratore utilizzati dalla stazione appaltante o dal gestore del sistema informatico per le aste elettroniche, ove coperti da diritti di privativa intellettuale.
 
    q) Sono altresì, sottratti all’accesso, in quanto mirano a tutelare non solo l’opera intellettuale del legale, ma soprattutto il diritto di difesa dell’Ente, gli atti redatti dai legali e dai professionisti del libero foro in relazione a rapporti di consulenza con l’Ente medesimo.
 
@@ -158,6 +156,7 @@ Art. 18 - Differimento del diritto di accesso
    a) documenti riguardanti atti preparatori, nel corso della formazione degli atti inerenti a provvedimenti tributari, salvo diverse disposizioni di legge e fino all’emanazione del provvedimento finale;
    b) atti istruttori relativi alle pratiche e al contenzioso legale dell’Ente fino all’emanazione del provvedimento finale di definizione delle vertenze;
    c) relativamente alle procedure di appalto di forniture di beni, servizi e lavori, il diritto di accesso è differito, a norma dell’art. 53 del D.Lgs. n. 50/2016:
+   
       c1. nelle procedure aperte, in relazione all'elenco dei soggetti che hanno presentato offerte, fino alla scadenza del termine per la presentazione delle medesime;
       c2. nelle procedure ristrette e negoziate e nelle gare informali, in relazione all'elenco dei soggetti che hanno fatto richiesta di invito o che hanno manifestato il loro interesse, e in relazione all'elenco dei soggetti che sono stati invitati a presentare offerte e all’elenco dei soggetti che hanno presentato offerte, fino alla scadenza del termine per la presentazione delle offerte medesime; ai soggetti la cui richiesta di invito sia stata respinta, è consentito l’accesso all’elenco dei soggetti che hanno fatto richiesta di invito o che hanno manifestato il loro interesse, dopo la comunicazione ufficiale, da parte delle stazioni appaltanti, dei nominativi dei candidati da invitare;
       c3. in relazione alle offerte, fino all’aggiudicazione;
