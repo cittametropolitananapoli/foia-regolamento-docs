@@ -175,11 +175,9 @@ Articolo 20 – Accesso agli atti da parte dei Consiglieri Metropolitani
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. I Consiglieri metropolitani hanno diritto di ottenere dagli uffici dell’Amministrazione tutte le notizie e le informazioni in loro possesso, utili all’espletamento del mandato. Ad essi possono essere opposte soltanto le limitazioni derivanti direttamente da leggi di settore.
-2. Essi   hanno   diritto   di   accesso   agli   atti   ed   ai   documenti   amministrativi   formati
-dall’Amministrazione o dalla stessa stabilmente detenuti.
+2. Essi   hanno   diritto   di   accesso   agli   atti   ed   ai   documenti   amministrativi   formati dall’Amministrazione o dalla stessa stabilmente detenuti.
 3. I Consiglieri possono ottenere copia degli atti e dei documenti necessari per l’esercizio del mandato elettivo, senza addebito di spese.  Essi sono tenuti al segreto  nei casi  specificamente determinati dalla legge. In relazione ad atti compresi in registri di verbali delle adunanze di organi dell’ente e di registrazioni, è necessaria la presentazione di richiesta per lo specifico atto o registrazione di cui il Consigliere ha necessità per l’esercizio delle sue funzioni.
-4. I Consiglieri sono civilmente e penalmente responsabili qualora, dalla divulgazione del contenuto
-degli atti o delle informazioni ricevute, derivi un danno a terzi o all’Amministrazione.
+4. I Consiglieri sono civilmente e penalmente responsabili qualora, dalla divulgazione del contenuto degli atti o delle informazioni ricevute, derivi un danno a terzi o all’Amministrazione.
 5. E’ escluso il rilascio di copie di piani urbanistici, progetti, elaborati tecnici ed altri documenti voluminosi, la cui riproduzione richieda costi elevati ed impegno rilevante di tempo per i dipendenti addetti. Il Consigliere può ottenere estratti degli atti predetti, riferiti a parti limitate degli stessi, dei quali motiva la necessità per l’esercizio del mandato elettivo.
 
 Articolo 21 - Diritto di accesso da parte del Collegio dei Revisori dei conti
