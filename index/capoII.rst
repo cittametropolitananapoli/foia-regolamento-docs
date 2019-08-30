@@ -103,7 +103,7 @@ Art. 15 – Costi
 8. La tabella delle tariffe e le modalità di pagamento dei costi di riproduzione sono pubblicati sul sito istituzionale dell’Ente. Ai fini del rilascio della documentazione richiesta, il richiedente dovrà esibire la ricevuta comprovante l’avvenuto pagamento dei costi di riproduzione.
 9. Sono esentati dal pagamento dei costi di riproduzione le altre pubbliche amministrazioni.
 
-Articolo 16 - Non accoglimento della richiesta di accesso
+Art. 16 - Non accoglimento della richiesta di accesso
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il rifiuto, la limitazione o il differimento dell’accesso richiesto in via formale sono motivati a cura del responsabile del procedimento, con riferimento specifico alla normativa vigente, alla individuazione delle categorie di atti sottratti al diritto di accesso ed alle circostanze di fatto per cui la richiesta non può essere accolta.
@@ -112,7 +112,7 @@ Articolo 16 - Non accoglimento della richiesta di accesso
 4. Nel caso in cui l’esclusione dall’accesso riguardi solo una parte dei contenuti di un documento, possono essere esibite in visione o rilasciate copie parziali dello stesso. Le pagine omesse devono essere indicate.
 5. Con la comunicazione dell’esclusione o della limitazione all’accesso, l’interessato deve essere informato sui termini e l’Autorità presso la quale è possibile ricorrere.
 
-Articolo 17 – Esclusioni e limiti al diritto di accesso documentale
+Art. 17 – Esclusioni e limiti al diritto di accesso documentale
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il diritto di accesso è escluso, oltre che nei casi espressamente previsti dal citato art. 24 della legge n. 241/90, nei confronti delle seguenti categorie di atti formati o detenuti dall’Ente:
@@ -148,7 +148,7 @@ Articolo 17 – Esclusioni e limiti al diritto di accesso documentale
 7. Salvo espresso divieto di legge, le esclusioni di cui alle disposizioni precedenti non operano per altre  pubbliche  amministrazioni  per  l’esercizio  delle  funzioni  loro  domandate  dalla  legge,  né operano per uffici dell’Ente diversi da quelli che detengono la documentazione, qualora l'accesso abbia luogo per funzioni legittimamente svolte.
 8. Sono infine sottratti all’accesso i documenti indicati come riservati dall’autorità dalla quale provengono.
 
-Articolo 18 - Differimento del diritto di accesso
+Art. 18 - Differimento del diritto di accesso
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1. L'accesso ai documenti amministrativi non può essere negato qualora sia sufficiente fare ricorso al differimento.
 2. Sono sottratti all’esercizio del diritto d’accesso, per il periodo di tempo specificatamente indicato per ogni categoria, i seguenti documenti:
@@ -165,13 +165,13 @@ Articolo 18 - Differimento del diritto di accesso
 3. L’accesso ad un documento può essere limitato mediante l’oscuramento parziale dei contenuti, quando ciò sia necessario per salvaguardare la riservatezza di terzi e le informazioni non siano rilevanti per il richiedente, secondo valutazione condotta con riferimento agli elementi dichiarati dallo stesso nell’istanza di accesso.
 4. Al di fuori dei casi previsti nei commi precedenti, l’accesso può essere differito fino a quando la conoscenza dei documenti richiesti possa impedire o gravemente ostacolare lo svolgimento dell’azione amministrativa.
 
-Articolo 19 - Accesso agli atti istruttori ed alle informazioni sull’iter del procedimento
+Art. 19 - Accesso agli atti istruttori ed alle informazioni sull’iter del procedimento
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Fatta salva la tutela della riservatezza e del buon andamento dell’azione amministrativa, chiunque ha diritto di acquisire informazioni circa lo stato di avanzamento e il tempo programmato di attesa per l’esito di un procedimento in corso che lo riguardi e di accedere ai relativi atti istruttori, in quanto si tratti del destinatario dell’atto finale ovvero del soggetto che, per legge, deve intervenire nel procedimento o dei controinteressati all’emanazione del provvedimento finale, ai quali possa derivare un pregiudizio, o, infine, del soggetto che abbia determinato l’avvio del procedimento stesso.
 2. I pareri legali, se correlati ad un procedimento amministrativo in quanto espressamente richiesti in funzione endo-procedimentale e richiamati nella motivazione del provvedimento finale, sono soggetti all’accesso; non lo sono, invece, quando attengano alle tesi difensive in un procedimento contenzioso o pre contenzioso.
 
-Articolo 20 – Accesso agli atti da parte dei Consiglieri Metropolitani
+Art. 20 – Accesso agli atti da parte dei Consiglieri Metropolitani
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. I Consiglieri metropolitani hanno diritto di ottenere dagli uffici dell’Amministrazione tutte le notizie e le informazioni in loro possesso, utili all’espletamento del mandato. Ad essi possono essere opposte soltanto le limitazioni derivanti direttamente da leggi di settore.
@@ -180,7 +180,7 @@ Articolo 20 – Accesso agli atti da parte dei Consiglieri Metropolitani
 4. I Consiglieri sono civilmente e penalmente responsabili qualora, dalla divulgazione del contenuto degli atti o delle informazioni ricevute, derivi un danno a terzi o all’Amministrazione.
 5. E’ escluso il rilascio di copie di piani urbanistici, progetti, elaborati tecnici ed altri documenti voluminosi, la cui riproduzione richieda costi elevati ed impegno rilevante di tempo per i dipendenti addetti. Il Consigliere può ottenere estratti degli atti predetti, riferiti a parti limitate degli stessi, dei quali motiva la necessità per l’esercizio del mandato elettivo.
 
-Articolo 21 - Diritto di accesso da parte del Collegio dei Revisori dei conti
+Art. 21 - Diritto di accesso da parte del Collegio dei Revisori dei conti
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il diritto di accesso agli atti e documenti della Città Metropolitana di Napoli riconosciuto ai sensi dell’art.  239  del  D.  Lgs.  n.  267/00  viene  esercitato  dai  Revisori  del  conti  presso  i  singoli responsabili dei procedimenti, anche con semplice richiesta verbale.
