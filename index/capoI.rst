@@ -19,15 +19,25 @@ Art. 2 – Principi generali del diritto all’informazione e all’accesso
 Art. 3 - Diritti di accesso: definizioni
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. Il presente regolamento disciplina i criteri e le modalità organizzative per l’effettivo esercizio dei seguenti diritti:
+# 1. Il presente regolamento disciplina i criteri e le modalità organizzative per l’effettivo esercizio dei seguenti diritti:
 
-   a) “accesso documentale”: l’accesso disciplinato dal capo V della legge n. 241/1990;
-   b) “accesso civico semplice”: l’accesso ai documenti oggetto degli obblighi di pubblicazione, previsto dall’art. 5, comma 1, del D.Lgs. n. 33/2013 (Decreto Trasparenza);
-   c) “accesso civico generalizzato”: la nuova forma di accesso civico previsto dall’art. 5, comma 2, del citato decreto trasparenza.
- 
-2. L’accesso documentale o “procedimentale” è il diritto degli interessati di prendere visione e di estrarre copia di documenti amministrativi. Tale diritto è riconosciuto a tutti i soggetti privati, compresi quelli portatori di interessi pubblici o diffusi, che abbiano un interesse diretto, concreto e attuale, corrispondente ad una situazione giuridicamente tutelata e collegata al documento amministrativo al quale è chiesto l'accesso.
-3. L’accesso civico semplice è il diritto di chiunque di richiedere alle pubbliche amministrazioni documenti informazioni o dati, che l’ente abbia omesso di pubblicare pur avendone l’obbligo ai sensi del decreto trasparenza.
-4. L’accesso civico generalizzato è il diritto di chiunque di accedere ai dati e ai documenti detenuti dalle pubbliche amministrazioni, ulteriori rispetto a quelli oggetto di pubblicazione ai sensi del Decreto Trasparenza, nel rispetto dei limiti relativi alla tutela di interessi giuridicamente rilevanti secondo quanto previsto dall'articolo 5-bis del D.Lgs.n.33/2013.
+     # a. “accesso documentale”: l’accesso disciplinato dal capo V della legge n. 241/1990;
+     # b. “accesso civico semplice”: l’accesso ai documenti oggetto degli obblighi di pubblicazione, previsto dall’art. 5, comma 1, del D.Lgs. n. 33/2013 (Decreto Trasparenza);
+     # c. “accesso civico generalizzato”: la nuova forma di accesso civico previsto dall’art. 5, comma 2, del citato decreto trasparenza.
+
+#. Step 1.
+
+    #. Step a.
+
+    #. Step b.
+
+#. Step 2.
+
+
+
+# 2. L’accesso documentale o “procedimentale” è il diritto degli interessati di prendere visione e di estrarre copia di documenti amministrativi. Tale diritto è riconosciuto a tutti i soggetti privati, compresi quelli portatori di interessi pubblici o diffusi, che abbiano un interesse diretto, concreto e attuale, corrispondente ad una situazione giuridicamente tutelata e collegata al documento amministrativo al quale è chiesto l'accesso.
+# 3. L’accesso civico semplice è il diritto di chiunque di richiedere alle pubbliche amministrazioni documenti informazioni o dati, che l’ente abbia omesso di pubblicare pur avendone l’obbligo ai sensi del decreto trasparenza.
+# 4. L’accesso civico generalizzato è il diritto di chiunque di accedere ai dati e ai documenti detenuti dalle pubbliche amministrazioni, ulteriori rispetto a quelli oggetto di pubblicazione ai sensi del Decreto Trasparenza, nel rispetto dei limiti relativi alla tutela di interessi giuridicamente rilevanti secondo quanto previsto dall'articolo 5-bis del D.Lgs.n.33/2013.
 
 Art. 4 – Ufficio Relazioni con il Pubblico
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
