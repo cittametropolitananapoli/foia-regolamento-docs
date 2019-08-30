@@ -130,8 +130,8 @@ Art. 17 – Esclusioni e limiti al diritto di accesso documentale
    k) rapporti alle Magistrature ordinarie e alla Procura Generale nonché alle Procura Regionale della Corte dei Conti e richieste o relazioni di detti organi ove siano nominativamente indicati soggetti per i quali si evidenzi la sussistenza di responsabilità amministrative, contabili e penali, limitatamente alle parti la cui conoscenza può pregiudicare il diritto delle persone alla riservatezza;
    l) atti utili ad accertare responsabilità di fronte alla Procura Generale e a quella Regionale della Corte dei Conti nonché alle competenti autorità giudiziarie, limitatamente alle parti la cui conoscenza può  pregiudicare il  diritto  alla riservatezza di  persone fisiche o  giuridiche, gruppi imprese ed associazioni;
    m) le denunce relative a tributi riscossi dall’Ente, da cui possa direttamente o indirettamente trarsi la consistenza reddituale o patrimoniale dei contribuenti o dei loro conviventi; 
-   n)  documenti che contengono apprezzamenti o giudizi di valore su persone individuate; 
-   o)  atti e registri riservati per legge;
+   n) documenti che contengono apprezzamenti o giudizi di valore su persone individuate; 
+   o) atti e registri riservati per legge;
    p) relativamente agli appalti per forniture di beni, servizi e lavori, sono esclusi il diritto di accesso e ogni forma di divulgazione in relazione:
   
       I. alle informazioni fornite dagli offerenti nell’ambito delle offerte ovvero a giustificazione delle medesime, che costituiscano, secondo motivata e comprovata dichiarazione dell’offerente, segreti tecnici o commerciali;
@@ -156,11 +156,10 @@ Art. 18 - Differimento del diritto di accesso
    a) documenti riguardanti atti preparatori, nel corso della formazione degli atti inerenti a provvedimenti tributari, salvo diverse disposizioni di legge e fino all’emanazione del provvedimento finale;
    b) atti istruttori relativi alle pratiche e al contenzioso legale dell’Ente fino all’emanazione del provvedimento finale di definizione delle vertenze;
    c) relativamente alle procedure di appalto di forniture di beni, servizi e lavori, il diritto di accesso è differito, a norma dell’art. 53 del D.Lgs. n. 50/2016:
-  
       c1. nelle procedure aperte, in relazione all'elenco dei soggetti che hanno presentato offerte, fino alla scadenza del termine per la presentazione delle medesime;
       c2. nelle procedure ristrette e negoziate e nelle gare informali, in relazione all'elenco dei soggetti che hanno fatto richiesta di invito o che hanno manifestato il loro interesse, e in relazione all'elenco dei soggetti che sono stati invitati a presentare offerte e all’elenco dei soggetti che hanno presentato offerte, fino alla scadenza del termine per la presentazione delle offerte medesime; ai soggetti la cui richiesta di invito sia stata respinta, è consentito l’accesso all’elenco dei soggetti che hanno fatto richiesta di invito o che hanno manifestato il loro interesse, dopo la comunicazione ufficiale, da parte delle stazioni appaltanti, dei nominativi dei candidati da invitare;
-     c3. in relazione alle offerte, fino all’aggiudicazione;
-     c4. in relazione al procedimento di verifica della anomalia dell'offerta, fino all'aggiudicazione.
+      c3. in relazione alle offerte, fino all’aggiudicazione;
+      c4. in relazione al procedimento di verifica della anomalia dell'offerta, fino all'aggiudicazione.
 
 3. L’accesso ad un documento può essere limitato mediante l’oscuramento parziale dei contenuti, quando ciò sia necessario per salvaguardare la riservatezza di terzi e le informazioni non siano rilevanti per il richiedente, secondo valutazione condotta con riferimento agli elementi dichiarati dallo stesso nell’istanza di accesso.
 4. Al di fuori dei casi previsti nei commi precedenti, l’accesso può essere differito fino a quando la conoscenza dei documenti richiesti possa impedire o gravemente ostacolare lo svolgimento dell’azione amministrativa.
