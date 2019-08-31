@@ -134,10 +134,10 @@ Art. 17 – Esclusioni e limiti al diritto di accesso documentale
    o) atti e registri riservati per legge;
    p) relativamente agli appalti per forniture di beni, servizi e lavori, sono esclusi il diritto di accesso e ogni forma di divulgazione in relazione:
    
-      a. alle informazioni fornite dagli offerenti nell’ambito delle offerte ovvero a giustificazione delle medesime, che costituiscano, secondo motivata e comprovata dichiarazione dell’offerente, segreti tecnici o commerciali;
-      b. ai  pareri  legali  acquisiti  dall’Amministrazione,  per  la  soluzione  di  liti, potenziali o in atto, relative ai contratti pubblici;
-      c. alle relazioni riservate del direttore dei lavori e dell’organo di collaudo sulle domande e sulle riserve del soggetto esecutore del contratto;
-      d. alle soluzioni tecniche e ai programmi per elaboratore utilizzati dalla stazione appaltante o dal gestore del sistema informatico per le aste elettroniche, ove coperti da diritti di privativa intellettuale.
+      I. alle informazioni fornite dagli offerenti nell’ambito delle offerte ovvero a giustificazione delle medesime, che costituiscano, secondo motivata e comprovata dichiarazione dell’offerente, segreti tecnici o commerciali;
+      II. ai  pareri  legali  acquisiti  dall’Amministrazione,  per  la  soluzione  di  liti, potenziali o in atto, relative ai contratti pubblici;
+      III. alle relazioni riservate del direttore dei lavori e dell’organo di collaudo sulle domande e sulle riserve del soggetto esecutore del contratto;
+      IV. alle soluzioni tecniche e ai programmi per elaboratore utilizzati dalla stazione appaltante o dal gestore del sistema informatico per le aste elettroniche, ove coperti da diritti di privativa intellettuale.
 
    q) Sono altresì, sottratti all’accesso, in quanto mirano a tutelare non solo l’opera intellettuale del legale, ma soprattutto il diritto di difesa dell’Ente, gli atti redatti dai legali e dai professionisti del libero foro in relazione a rapporti di consulenza con l’Ente medesimo.
 
