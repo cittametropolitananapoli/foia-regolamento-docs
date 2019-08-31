@@ -15,9 +15,9 @@ Art. 26 - Soggetti controinteressati
 1. L’ufficio cui è indirizzata la richiesta di accesso generalizzato, se individua soggetti controinteressati è tenuto a dare comunicazione agli stessi, mediante invio di copia della stessa, a mezzo di raccomandata con avviso di ricevimento o per via telematica per coloro che abbiano acconsentito a tale forma di comunicazione.
 2. I soggetti controinteressati sono esclusivamente le persone fisiche e giuridiche portatrici dei seguenti interessi privati di cui all’art. 5-bis, c. 2 del decreto trasparenza:
 
- a) protezione dei dati personali, in conformità al D.Lgs. n. 196/2003;
- b) libertà e segretezza della corrispondenza intesa in senso lato ex art.15 Costituzione;
- c) interessi economici e commerciali, ivi compresi la proprietà intellettuale, il diritto d’autore e i segreti commerciali.
+   a) protezione dei dati personali, in conformità al D.Lgs. n. 196/2003;
+   b) libertà e segretezza della corrispondenza intesa in senso lato ex art.15 Costituzione;
+   c) interessi economici e commerciali, ivi compresi la proprietà intellettuale, il diritto d’autore e i segreti commerciali.
 
 3.   Possono   essere   controinteressati   anche   le   persone   fisiche   interne   all’amministrazione (componenti degli organi di indirizzo, dirigenti, P.O., dipendenti, componenti di altri organismi).
 4. Entro dieci giorni dalla ricezione della comunicazione, i controinteressati possono presentare, con le modalità indicate all’art. 6, una motivata opposizione alla richiesta di accesso. Decorso tale termine il responsabile del diritto di accesso, accertata la ricezione della comunicazione da parte dei controinteressati, oppure, in caso di opposizione, esaminate le osservazioni dedotte, conclude il procedimento con provvedimento espresso e motivato nei termini di cui al successivo art. 27.
