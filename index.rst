@@ -9,7 +9,7 @@ Regolamento in materia di accesso documentale, accesso civico semplice ed access
 
 :Proprietà: Città Metropolitana di Napoli
 :Publisher: Ufficio Relazioni con il Pubblico
-:Licenza: |cc-zero|
+:Licenza: |cc-by|
  
 .. toctree::
   :maxdepth: 3
@@ -24,4 +24,4 @@ Regolamento in materia di accesso documentale, accesso civico semplice ed access
 .. |logo_cmna| image:: assets/images/logo_cmna.png
    :width: 0.6in
    :height: 0.79097in
-.. |cc-zero| image:: assets/images/cc-zero.png
+.. |cc-by| image:: assets/images/cc-by.png
